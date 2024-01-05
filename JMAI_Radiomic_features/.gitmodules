@@ -1,0 +1,3 @@
+[submodule "JMAI_Radiomic_features"]
+    path = JMAI_Radiomic_features
+    url = https://github.com/shyamsundar058/JMAI_Radiomic_features-repo.git
