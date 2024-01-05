@@ -1,0 +1,3 @@
+[submodule "Simple_2D_CNN_individual_MRI_Sequences"]
+    path = Simple_2D_CNN_individual_MRI_Sequences
+    url = https://github.com/shyamsundhar058/Simple_2D_CNN_individual_MRI_Sequences-repo.git
