@@ -1,0 +1,3 @@
+[submodule "Stacked_UNet"]
+    path = Stacked_UNet
+    url = https://github.com/shyamsundhar058/Stacked_UNet-repo.git
